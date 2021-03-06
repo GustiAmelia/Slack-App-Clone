@@ -1,0 +1,21 @@
+[debug] [2021-03-06T16:11:46.442Z] ----------------------------------------------------------------------
+[debug] [2021-03-06T16:11:46.448Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\gusti\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-03-06T16:11:46.449Z] CLI Version:   8.16.2
+[debug] [2021-03-06T16:11:46.449Z] Platform:      win32
+[debug] [2021-03-06T16:11:46.449Z] Node Version:  v12.18.2
+[debug] [2021-03-06T16:11:46.454Z] Time:          Sat Mar 06 2021 23:11:46 GMT+0700 (Western Indonesia Time)
+[debug] [2021-03-06T16:11:46.454Z] ----------------------------------------------------------------------
+[debug] [2021-03-06T16:11:46.455Z] 
+[debug] [2021-03-06T16:11:46.471Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-03-06T16:11:46.474Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  E:\Tutorial-React\slack-app-clone
+
